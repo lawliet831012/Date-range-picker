@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Date Range Picker
+
+```
+  yarn dev // start dev server on 5173 port
+  yarn build // build static file
+  yarn test // run test case
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
